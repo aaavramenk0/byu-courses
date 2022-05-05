@@ -16,8 +16,7 @@ def main():
     # as needed.
 
     # Print the results for the user to see.
-    print(f"Age (years): {compute_age(birthdate)}\nWeight (kg): {kg_from_lb(pounds):.1f}\nHeight (cm): {cm_from_in(inches):.1f}\nHeight (m): {m_from_cm(inches):.1f}\nBody mass index: {body_mass_index(kg_from_lb(pounds), cm_from_in(inches)):.1f}\nBasal metabolic rate (kcal/day): {basal_metabolic_rate(gender, kg_from_lb(pounds), cm_from_in(inches), compute_age(birthdate)):.1f}")
-    pass
+    print(f"Age (years): {compute_age(birthdate)}\nWeight (kg): {kg_from_lb(pounds):.1f}\nHeight (cm): {cm_from_in(inches):.1f}\nHeight (m): {m_from_cm(inches):.1f}\nBody mass index: {body_mass_index(kg_from_lb(pounds), cm_from_in(inches)):.1f}\nBasal metabolic rate (kcal/day): {basal_metabolic_rate(gender, kg_from_lb(pounds), cm_from_in(inches), compute_age(birthdate)):.0f}")
 
 
 def compute_age(birthdate):
