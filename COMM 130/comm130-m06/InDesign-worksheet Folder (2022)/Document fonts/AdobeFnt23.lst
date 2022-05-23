@@ -1,0 +1,206 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/.DS_Store
+FileLength:6148
+FileModTime:612834330
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/AdobeFnt16.lst
+FileLength:5602
+FileModTime:515340290
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/AdobeFnt20.lst
+FileLength:8263
+FileModTime:611712006
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/AdobeFnt22.lst
+FileLength:4628
+FileModTime:662416528
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/AdobeFnt23.lst
+FileLength:4978
+FileModTime:671567179
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial Black
+StyleName:Regular
+MenuName:Arial Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Arial Black
+WritingScript:Roman
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/Arial Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:122556
+FileModTime:368045022
+NameArray:0,Mac,4,Arial Black
+NameArray:0,Win,1,Arial Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+MenuName:Helvetica
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Bold
+WritingScript:Roman
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/Helvetica-Bold-Font.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53100
+FileModTime:540886692
+NameArray:0,Mac,4,Helvetica Bold
+NameArray:0,Mac,4,Helvetica Gras
+NameArray:0,Mac,4,Helvetica Fett
+NameArray:0,Mac,4,Helvetica grassetto
+NameArray:0,Mac,4,Helvetica vet
+NameArray:0,Mac,4,Helvetica Fet
+NameArray:0,Mac,4,Helvetica Negrita
+NameArray:0,Mac,4,Helvetica Carregado
+NameArray:0,Mac,4,Helvetica Halvfet
+NameArray:0,Mac,4,Helvetica Ú·‰
+NameArray:0,Mac,4,Helvetica lihava
+NameArray:1,Mac,4,Helvetica ボールド
+NameArray:4,Mac,4,Helvetica‭ ‬أسود
+NameArray:4,Mac,4,Helvetica‭ ‬برجسته
+NameArray:5,Mac,4,Helvetica‭ ‬עבה
+NameArray:0,Win,1,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:491248340
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+MenuName:Myriad Pro
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro Bold
+WritingScript:Roman
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97124
+FileModTime:491248340
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Bold
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+MenuName:Myriad Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Myriad Pro
+WritingScript:Roman
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97072
+FileModTime:491248340
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+MenuName:Helvetica
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica
+WritingScript:Roman
+OutlineFileName:/Users/jrrognon/Google Drive/Comm 130/Admin/Adobe Worksheets/InDesign-worksheet Folder (2022)/Document fonts/helvetica.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25344
+FileModTime:403575072
+NameArray:0,Mac,4,Helvetica
+NameArray:0,Win,1,Helvetica
+%EndFont
+
