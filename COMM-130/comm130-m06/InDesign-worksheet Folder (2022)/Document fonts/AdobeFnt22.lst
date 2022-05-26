@@ -1,0 +1,173 @@
+%!Adobe-FontList 1.22
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\User\Desktop\BYU-Idaho\COMM 130\comm130-m06\InDesign-worksheet Folder (2022)\Document fonts\.DS_Store
+FileModTime:1653298212
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial Black
+StyleName:Regular
+FullName:Arial Black
+MenuName:Arial Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\User\Desktop\BYU-Idaho\COMM 130\comm130-m06\InDesign-worksheet Folder (2022)\Document fonts\Arial Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:122556
+FileModTime:1653298212
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Black
+NameArray:0,Win,1,Arial Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+FullName:Helvetica Bold
+MenuName:Helvetica
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\User\Desktop\BYU-Idaho\COMM 130\comm130-m06\InDesign-worksheet Folder (2022)\Document fonts\Helvetica-Bold-Font.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53100
+FileModTime:1653298212
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Bold
+NameArray:0,Mac,4,Helvetica Gras
+NameArray:0,Mac,4,Helvetica Fett
+NameArray:0,Mac,4,Helvetica grassetto
+NameArray:0,Mac,4,Helvetica vet
+NameArray:0,Mac,4,Helvetica Fet
+NameArray:0,Mac,4,Helvetica Negrita
+NameArray:0,Mac,4,Helvetica Carregado
+NameArray:0,Mac,4,Helvetica Halvfet
+NameArray:0,Mac,4,Helvetica тбд
+NameArray:0,Mac,4,Helvetica lihava
+NameArray:1,Mac,4,Helvetica ボールド
+NameArray:4,Mac,4,Helvetica أسèد
+NameArray:4,Mac,4,Helvetica برجستç
+NameArray:5,Mac,4,Helvetica עבה
+NameArray:0,Win,1,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\User\Desktop\BYU-Idaho\COMM 130\comm130-m06\InDesign-worksheet Folder (2022)\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1653298212
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+FullName:Myriad Pro Bold
+MenuName:Myriad Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\User\Desktop\BYU-Idaho\COMM 130\comm130-m06\InDesign-worksheet Folder (2022)\Document fonts\MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97124
+FileModTime:1653298212
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Bold
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\User\Desktop\BYU-Idaho\COMM 130\comm130-m06\InDesign-worksheet Folder (2022)\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97072
+FileModTime:1653298212
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+FullName:Helvetica
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\User\Desktop\BYU-Idaho\COMM 130\comm130-m06\InDesign-worksheet Folder (2022)\Document fonts\helvetica.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25344
+FileModTime:1653298212
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica
+NameArray:0,Win,1,Helvetica
+%EndFont
+
