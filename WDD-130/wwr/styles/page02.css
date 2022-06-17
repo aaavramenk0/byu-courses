@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Montserrat:wght@400;900&display=swap');
+div, body, header, footer, h1, h2, h3, p, a, nav{
+    margin: 0;
+}
+
+div
+{
+    max-width: 1600px;
+}
+#content
+{
+    margin: 0 auto;
+    max-width: 1600px;
+}
+header
+{
+    color: black;
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+nav{
+    display: flex;
+    justify-content: space-around; 
+    font-family: 'Indie Flower', cursive;
+}
+#logo_link{
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+nav, a
+{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+nav a:hover
+{
+    color: #ffa69e;
+}
+.logo
+{
+    width: 80px;
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.river{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+.subheading{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+.river-photo{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.river-text{
+    font-family: 'Montserrat', sans-serif;  
+    font-size: 17px;
+}
+
+.quote{
+    text-align: center;
+    background: #C9FFBF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #FFAFBD, #C9FFBF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #FFAFBD, #C9FFBF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.quote-author{
+    font-family: 'Indie Flower', cursive;
+    font-size: 44px;
+}
+.quote-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+footer
+{
+    background-color: #ffa69e;
+    padding: 25px 50px;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
